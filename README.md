@@ -18,12 +18,12 @@ To run this project locally, you'll need the following:
 
 Clone the repository to your local machine:
 ```
-git clone https://github.com/yourusername/flask-todo-list.git
+git clone https://github.com/x0byte/flask_simple_todo_list.git
 ```
 
 Navigate into the project directory:
 ```
-cd flask-todo-list
+cd flask_simple_todo_list
 ```
 
 Run the Flask development server:
@@ -31,16 +31,6 @@ Run the Flask development server:
 python app.py
 ```
 By default, the application will run at http://127.0.0.1:5000/ in your browser.
-
-Project Structure
-
-flask-todo-list/
-│
-├── app.py                # Main Flask application file
-├── templates/            # Contains HTML templates
-│   └── index.html        # Main HTML file for rendering tasks
-├── static/               # Contains static files like CSS
-    └── styles.css        # Custom styles for the To-Do list
 
 ### This is what it looks like:
 <img src="Screenshot.png" alt="ToDo List" width="500"/>
