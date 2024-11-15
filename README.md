@@ -43,6 +43,6 @@ flask-todo-list/
     └── styles.css        # Custom styles for the To-Do list
 
 ### This is what it looks like:
-<img src="screenshot.png" alt="ToDo List" width="500"/>
+<img src="Screenshot.png" alt="ToDo List" width="500"/>
 
 
