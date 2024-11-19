@@ -18,7 +18,7 @@ To run this project locally, you'll need the following:
 
 Clone the repository to your local machine:
 ```
-git clone https://github.com/x0byte/flask_simple_todo_list.git
+git clone https://github.com/x0byte/flask_todo_list.git
 ```
 
 Navigate into the project directory:
